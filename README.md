@@ -1,4 +1,2 @@
 SignalRMonkeys
 ==============
-
-Hello World.
